@@ -156,15 +156,13 @@ My responsibilities included:
 
 ## 📸 Screenshots
 
-> Add screenshots here
-
-```
-Home Page
-Dashboard
-Market Analysis
-Roadmap
-Founder Profile
-```
+<p align="center">
+  <img src="screenshots/dasboard.png" width="45%">
+  <img src="screenshots/profile.png" width="45%">
+  <img src="screenshots/validation.png" width="45%">
+  <img src="screenshots/SWOT analysis.png" width="45%">
+  <img src="screenshots/workspace.png" width="45%">
+</p>
 
 ---
 
@@ -190,6 +188,6 @@ If you found this project interesting, feel free to ⭐ the repository.
 
 <div align="center">
 
-Made with ❤️ using AI-assisted development.
+Made with using AI-assisted development.
 
 </div>
