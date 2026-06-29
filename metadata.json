@@ -1,0 +1,6 @@
+{
+  "name": "Valid AI",
+  "description": "An AI-powered co-pilot for startup founders that automates continuous market validation, competitor tracking, and quantitative risk scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
